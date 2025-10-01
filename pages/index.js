@@ -1,5 +1,5 @@
 function Home() {
-  return <div>Welcome to Next.js! 1</div>;
+  return <div>Mariany, se hoje tem, dá uma risadinha!</div>;
 }
 
 export default Home;
